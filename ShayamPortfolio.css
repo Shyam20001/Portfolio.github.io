@@ -30,6 +30,7 @@ section h2 {
     font-size: 24px;
 }
 
+
 .projects {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -75,18 +76,18 @@ section h2 {
 
 .contact p {
     margin: 10px 0;
-    
-    
+
+
 }
 
 .contact a {
     color: #333;
     text-decoration: none;
-    
+
 }
 
 .contact a:hover {
     text-decoration: underline;
-    
-    
+
+
 }
